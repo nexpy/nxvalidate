@@ -6,6 +6,10 @@ files](http://www.nexusformat.org/) written in the HDF5 format.
 The latest development version is always available from [NeXpy's GitHub
 repository](https://github.com/nexpy/nxvalidate).
 
+Please note that the code in this package has now been integrated into 
+the [nexusformat package](https://github.com/nexpy/nexusformat) since 
+v2.0.0. Developments on this package will be frozen.
+
 Installation
 ============
 Released versions of `nxvalidate` can be installed using
